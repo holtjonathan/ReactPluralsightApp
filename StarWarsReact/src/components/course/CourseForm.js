@@ -52,7 +52,7 @@ CourseForm.propTypes = {
     allAuthors: React.PropTypes.array,
     onSave: React.PropTypes.func.isRequired,
     onChange: React.PropTypes.func.isRequired,
-    loading: React.PropTYpes.bool,
+    loading: React.PropTypes.bool,
     errors: React.PropTypes.object
 };
 
